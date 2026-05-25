@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#13111f'/>
+      <stop offset='100%' stop-color='#1a1730'/>
+    </linearGradient>
+    <linearGradient id='acc' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#7c6af7'/>
+      <stop offset='100%' stop-color='#a78bfa'/>
+    </linearGradient>
+  </defs>
+  <rect width='192' height='192' rx='42.24' fill='url(#bg)'/>
+  <rect x='13.440000000000001' y='13.440000000000001' width='165.12' height='165.12' rx='34.56' fill='none' stroke='url(#acc)' stroke-width='4.800000000000001' opacity='0.4'/>
+  <circle cx='96' cy='80.64' r='34.56' fill='url(#acc)'/>
+  <circle cx='96' cy='80.64' r='17.28' fill='#13111f'/>
+  <text x='96' y='149.76' font-family='system-ui,sans-serif' font-weight='900' font-size='26.880000000000003' fill='#b5aefd' text-anchor='middle' letter-spacing='0.96'>LENS</text>
+</svg>
